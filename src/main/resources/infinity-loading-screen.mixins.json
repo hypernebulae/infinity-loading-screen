@@ -1,0 +1,7 @@
+{
+	"required": true,
+	"package": "hypernebulae.loading.mixin",
+	"compatibilityLevel": "JAVA_16",
+	"client": [ "MinecraftMixin" ],
+	"injectors": { "defaultRequire": 1 }
+}
